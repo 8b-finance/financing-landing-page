@@ -691,3 +691,8 @@ header {
 .menu-is-open .nav-link {
     color: #fff!important;
 }
+
+.container {
+    width: 100vw;
+    overflow-x: hidden;
+}
