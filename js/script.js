@@ -97,5 +97,5 @@ $(function() {
             }
         });
     }
-
+    AOS.init();
 }); /* End Fn */
