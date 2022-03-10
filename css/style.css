@@ -696,3 +696,21 @@ header {
     width: 100vw;
     overflow-x: hidden;
 }
+
+/* mailchimp subscribe */
+#mc_embed_signup {width: 100%;}
+form {
+    width:100%;
+    margin-bottom: 40px;
+}
+input {border-radius: 3px}
+#mce-success-response {
+    padding: 20px;
+    background: #51624b;
+    border-radius: 5px;
+    color: white;
+}
+#mc_embed_signup div.mce_inline_error {
+font-size: 14px!important;
+font-weight: normal!important;
+}
