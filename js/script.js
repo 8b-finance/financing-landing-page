@@ -98,4 +98,8 @@ $(function() {
         });
     }
     AOS.init();
+
+    $('[data-aos]').each(function(){
+        $(this).parent().css('overflow', 'hidden');
+    })
 }); /* End Fn */

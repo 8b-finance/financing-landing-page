@@ -138,7 +138,7 @@ p.lead {
 .btn-light {
     border-radius: 3px;
     background: #FFF;
-    box-shadow: 0px 9px 32px 0px rgba(0, 0, 0, 0.26);
+    box-shadow: 0px 3px 10px 0px rgba(0, 0, 0, 0.26)
     font-size: 14px;
     font-weight: 500;
     color: rgba(81, 98, 75, 100);
@@ -353,11 +353,11 @@ header {
     transform: translateY(-3px);
     -moz-box-shadow: 0px 5px 30px 0px rgba(0, 0, 0, 0.08);
     -webkit-box-shadow: 0px 5px 30px 0px rgba(0, 0, 0, 0.08);
-    box-shadow: 0px 5px 30px 0px rgba(0, 0, 0, 0.08);
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.08);
 }
 
 .box-icon {
-    box-shadow: 0px 0px 43px 0px rgba(0, 0, 0, 0.14);
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.14);
     padding: 10px;
     width: 70px;
     border-radius: 3px;
@@ -366,7 +366,7 @@ header {
 }
 
 .circle-icon {
-    box-shadow: 0px 9px 32px 0px rgba(0, 0, 0, 0.07);
+    box-shadow: 21px 12px 32px 0px rgba(0, 0, 0, 0.07);
     padding: 10px;
     width: 100px;
     height: 100px;
@@ -398,7 +398,7 @@ header {
 /*}*/
 
 .img-shadow {
-    box-shadow: 0px 9px 32px 0px rgba(0, 0, 0, 0.3);
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.3);
 }
 
 .ui-steps li {
@@ -476,7 +476,7 @@ header {
     width: 110px;
     margin: 30px auto;
     border-radius: 50%;
-    box-shadow: 0px 9px 32px 0px rgba(0, 0, 0, 0.07);
+    box-shadow: 0px 9px 10px 0px rgba(0, 0, 0, 0.07);
 }
 
 .testimonials-single {
@@ -528,7 +528,7 @@ header {
 
 .owl-theme .owl-dots .owl-dot.active span {
     background: #ff487e;
-    box-shadow: 0px 9px 32px 0px rgba(0, 0, 0, 0.07);
+    box-shadow: 0px 9px 10px 0px rgba(0, 0, 0, 0.07);
 }
 
 
@@ -536,7 +536,7 @@ header {
 ----------------------*/
 
 .img-gallery .owl-item {
-    box-shadow: 0px 9px 32px 0px rgba(0, 0, 0, 0.07);
+    box-shadow: 0px 9px 10px 0px rgba(0, 0, 0, 0.07);
     transform: scale(0.8);
     transition: all 0.3s ease-in;
 }
@@ -566,7 +566,7 @@ header {
 .card.pricing.popular {
     border-top-width: 3px;
     border-color: #ce75b4 #faf6fb #FFF;
-    box-shadow: 0px 12px 59px 0px rgba(36, 7, 31, 0.11);
+    box-shadow: 0px 12px 10px 0px rgba(36, 7, 31, 0.11);
     color: rgba(81, 98, 75, 100);
 }
 
